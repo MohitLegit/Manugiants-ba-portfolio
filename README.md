@@ -168,9 +168,9 @@ Warehouse staff manually logged all picks, receipts, and adjustments in paper le
 
 This is the second project in my BA portfolio, built to demonstrate system-side BA skills including requirements engineering, UML documentation, and UAT planning — complementing [Project 1: RetailEdge UK (E-commerce Sales Analytics)](https://github.com/MohitLegit/retailedge-ba-portfolio) which focused on data analytics and Power BI.
 
-**Author:** Mohit | BBA Final Year, Manipal University Jaipur (2026)
+**Author:** Mohit Meena | BBA Final Year, Manipal University Jaipur (2026)
 **Target Role:** Business Analyst — IT Domain
-**LinkedIn:** *(Add your LinkedIn URL here)*
+**LinkedIn:** linkedin.com/in/mohit-meena-07a628393
 
 ---
 
